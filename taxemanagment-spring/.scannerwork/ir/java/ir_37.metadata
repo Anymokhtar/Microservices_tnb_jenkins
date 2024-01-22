@@ -1,0 +1,3 @@
+com.example.gestion.ws.TaxeTnbWs#deleteById(Ljava/lang/Long;)V
+==
+deleteById com.example.gestion.service.TaxeTnbService#deleteById(Ljava/lang/Long;)V

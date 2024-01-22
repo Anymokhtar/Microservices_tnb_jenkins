@@ -1,0 +1,63 @@
+
+Pcom.example.gestion.ws.CategoryWs#findById(Ljava/lang/Long;)Ljava/util/Optional;z
+p/C:/Users/mariam/Documents/5IIR/ACE/C1/taxemanagment-spring/src/main/java/com/example/gestion/ws/CategoryWs.java (&"startingBlock*›
+startingBlock& (=~
+|
+ (!
+%2"
+__annotate**
+
+__unknown_file (
+
+GetMapping*2
+
+__unknown_file (
+
+idjava.lang.Long€
+~
+' (4
+%3"
+__annotate*,
+
+__unknown_file (
+PathVariable*2
+
+__unknown_file (
+
+idjava.lang.Longx
+v
+: (<
+idjava.lang.Long"__annotation*"
+
+__unknown_file (
+
+%2*"
+
+__unknown_file (
+
+%3*
+1*ý
+1 (ž
+›
+ (1
+%0+com.example.gestion.service.CategoryService"__id*V
+
+__unknown_file (:*8#
+!com.example.gestion.ws.CategoryWs"
+categoryService¤¡
+ (+
+%1java.util.Optional"Zcom.example.gestion.service.CategoryService#findById(Ljava/lang/Long;)Ljava/util/Optional;*O
+
+__unknown_file (3
+1
+%0+com.example.gestion.service.CategoryService*2
+
+__unknown_file (
+
+idjava.lang.Long2findById(Ljava/lang/Long;)"&
+ (,
+
+%1java.util.Optional: 
+' (<
+idjava.lang.LongB%#
+!com.example.gestion.ws.CategoryWsH

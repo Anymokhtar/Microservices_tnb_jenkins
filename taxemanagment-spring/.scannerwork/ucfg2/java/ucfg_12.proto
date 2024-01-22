@@ -1,0 +1,21 @@
+
+<com.example.gestion.ws.RedevableWs#findAll()Ljava/util/List;{
+q/C:/Users/mariam/Documents/5IIR/ACE/C1/taxemanagment-spring/src/main/java/com/example/gestion/ws/RedevableWs.java (""1* 
+1 (¡
+ž
+ (2
+%0,com.example.gestion.service.RedevableService"__id*X
+
+__unknown_file (<*:$
+"com.example.gestion.ws.RedevableWs"
+redevableServiceÈÅ
+ ()
+%1java.util.List"Fcom.example.gestion.service.RedevableService#findAll()Ljava/util/List;*P
+
+__unknown_file (4
+2
+%0,com.example.gestion.service.RedevableService2	findAll()""
+ (*
+
+%1java.util.ListB&$
+"com.example.gestion.ws.RedevableWsH

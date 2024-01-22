@@ -1,0 +1,3 @@
+com.example.gestion.ws.RedevableWs#update(Ljava/lang/Long;Lcom/example/gestion/bean/Redevable;)Lcom/example/gestion/bean/Redevable;
+==
+updateRedevable com.example.gestion.service.RedevableService#updateRedevable(Ljava/lang/Long;Lcom/example/gestion/bean/Redevable;)Lcom/example/gestion/bean/Redevable;

@@ -1,0 +1,81 @@
+pipeline {
+    agent any
+    tools {
+        maven 'maven'
+    }
+
+    stages {
+        stage('Git Clone') {
+            steps {
+                script {
+                    checkout([$class: 'GitSCM', branches: [[name: 'main']], userRemoteConfigs: [[url: 'https://github.com/Anymokhtar/Microservices_tnb_jenkins.git']]])
+                }
+            }
+        }
+      
+   stage('Build micr1'){
+            steps {
+                script {
+                    dir('C:\\Users\\aresmouk\\Desktop\\Architect_Des_Composantes\\taxemanagment-spring') {
+                        bat 'mvn clean install'
+                    }
+                }
+            }
+        }
+        stage('Build micr2'){
+            steps {
+                script {
+                    dir('C:\\Users\\aresmouk\\Desktop\\Architect_Des_Composantes\\auth-spring') {
+                        bat 'mvn clean install'
+                    }
+                }
+            }
+        }
+
+
+    stage('Create Docker Image micr1') {
+            
+             steps {
+                script {
+                    // Navigate into the project directory before running Maven commands
+                    dir('C:\\Users\\aresmouk\\Desktop\\Architect_Des_Composantes\\taxemanagment-spring') {
+                        bat 'docker build -t taxe .'
+                    }
+                }
+            }
+          
+        }
+        stage('Create Docker Image micr2') {
+            
+             steps {
+                script {
+                    // Navigate into the project directory before running Maven commands
+                    dir('C:\\Users\\aresmouk\\Desktop\\Architect_Des_Composantes\\auth-spring') {
+                        bat 'docker build -t authif .'
+                    }
+                }
+            }
+          
+        }
+
+    stage('Run micr1') {
+            steps {
+                script {
+                    bat "docker rm -f taxe || true"
+                    bat "docker run --name taxe -d -p 8082:8082 taxe"
+                }
+            }
+            
+        }
+        stage('Run micr2') {
+            steps {
+                script {
+                    bat "docker rm -f authif || true"
+                    bat "docker run --name authif -d -p 8081:8081 authif"
+                }
+            }
+            
+        }
+   
+    }
+}

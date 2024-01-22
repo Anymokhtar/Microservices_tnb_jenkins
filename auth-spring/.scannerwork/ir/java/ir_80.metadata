@@ -1,0 +1,6 @@
+com.example.vol.SpringReservationVolApplication#run([Ljava/lang/String;)V
+com.example.vol.models.Utilisateur#<init>(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V
+java.util.Optional#orElse(Ljava/lang/Object;)Ljava/lang/Object;
+com.example.vol.models.Utilisateur#instance-init#
+==
+findByUsername com.example.vol.repositories.AppUserRepository#findByUsername(Ljava/lang/String;)Ljava/util/Optional;

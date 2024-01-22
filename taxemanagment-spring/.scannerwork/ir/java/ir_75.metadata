@@ -1,0 +1,3 @@
+com.example.gestion.ws.TerrainWs#update(Ljava/lang/Long;Lcom/example/gestion/bean/Terrain;)Lcom/example/gestion/bean/Terrain;
+==
+updateTerrain com.example.gestion.service.TerrainService#updateTerrain(Ljava/lang/Long;Lcom/example/gestion/bean/Terrain;)Lcom/example/gestion/bean/Terrain;

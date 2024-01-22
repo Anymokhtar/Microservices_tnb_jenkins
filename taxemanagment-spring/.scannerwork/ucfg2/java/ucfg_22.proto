@@ -1,0 +1,103 @@
+
+}com.example.gestion.ws.TaxeTnbWs#update(Ljava/lang/Long;Lcom/example/gestion/bean/TaxeTnb;)Lcom/example/gestion/bean/TaxeTnb;y
+o/C:/Users/mariam/Documents/5IIR/ACE/C1/taxemanagment-spring/src/main/java/com/example/gestion/ws/TaxeTnbWs.java) )("startingBlock*·
+startingBlock) )(N~
+|
+( ((
+%2"
+__annotate**
+
+__unknown_file (
+
+PutMapping*2
+
+__unknown_file (
+
+idjava.lang.LongÄ
+~
+) )('
+%3"
+__annotate*,
+
+__unknown_file (
+PathVariable*2
+
+__unknown_file (
+
+idjava.lang.Longx
+v
+)- )(/
+idjava.lang.Long"__annotation*"
+
+__unknown_file (
+
+%2*"
+
+__unknown_file (
+
+%3ñ
+ì
+( ((
+%4"
+__annotate**
+
+__unknown_file (
+
+PutMapping*I
+
+__unknown_file (-
++
+taxeTnb com.example.gestion.bean.TaxeTnbó
+î
+)1 )(=
+%5"
+__annotate*+
+
+__unknown_file (
+RequestBody*I
+
+__unknown_file (-
++
+taxeTnb com.example.gestion.bean.TaxeTnbê
+ç
+)F )(M+
+taxeTnb com.example.gestion.bean.TaxeTnb"__annotation*"
+
+__unknown_file (
+
+%4*"
+
+__unknown_file (
+
+%5*
+1*º
+1* *(õ
+ò
+* *(0
+%0*com.example.gestion.service.TaxeTnbService"__id*T
+
+__unknown_file (8*6"
+ com.example.gestion.ws.TaxeTnbWs"
+taxeTnbServiceÿ’
+* *(8&
+%1 com.example.gestion.bean.TaxeTnb"écom.example.gestion.service.TaxeTnbService#updateTaxeTnb(Ljava/lang/Long;Lcom/example/gestion/bean/TaxeTnb;)Lcom/example/gestion/bean/TaxeTnb;*N
+
+__unknown_file (2
+0
+%0*com.example.gestion.service.TaxeTnbService*2
+
+__unknown_file (
+
+idjava.lang.Long*I
+
+__unknown_file (-
++
+taxeTnb com.example.gestion.bean.TaxeTnb2AupdateTaxeTnb(Ljava/lang/Long;Lcom/example/gestion/bean/TaxeTnb;)"4
+* *(9(
+&
+%1 com.example.gestion.bean.TaxeTnb: 
+) )(0
+idjava.lang.Long:7
+)1 )(M+
+taxeTnb com.example.gestion.bean.TaxeTnbB$"
+ com.example.gestion.ws.TaxeTnbWsH

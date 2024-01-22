@@ -1,0 +1,62 @@
+
+bcom.example.gestion.ws.TauxWs#save(Lcom/example/gestion/bean/Taux;)Lcom/example/gestion/bean/Taux;v
+l/C:/Users/mariam/Documents/5IIR/ACE/C1/taxemanagment-spring/src/main/java/com/example/gestion/ws/TauxWs.java (""startingBlock*˘
+startingBlock" (7t
+r
+ (
+%2"
+__annotate*+
+
+__unknown_file (
+PostMapping*'
+
+__unknown_file (
+	
+tauxTt
+r
+# (/
+%3"
+__annotate*+
+
+__unknown_file (
+RequestBody*'
+
+__unknown_file (
+	
+tauxTm
+k
+2 (6	
+tauxT"__annotation*"
+
+__unknown_file (
+
+%2*"
+
+__unknown_file (
+
+%3*
+1*›
+1 (í
+è
+ (-
+%0'com.example.gestion.service.TauxService"__id*N
+
+__unknown_file (2*0
+com.example.gestion.ws.TauxWs"
+tauxService°û
+ (%
+%1T"lcom.example.gestion.service.TauxService#save(Lcom/example/gestion/bean/Taux;)Lcom/example/gestion/bean/Taux;*K
+
+__unknown_file (/
+-
+%0'com.example.gestion.service.TauxService*'
+
+__unknown_file (
+	
+tauxT2%save(Lcom/example/gestion/bean/Taux;)"
+ (&	
+
+%1T:
+# (6	
+tauxTB!
+com.example.gestion.ws.TauxWsH

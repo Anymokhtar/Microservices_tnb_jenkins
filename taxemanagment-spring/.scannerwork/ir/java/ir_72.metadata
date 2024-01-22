@@ -1,0 +1,3 @@
+com.example.gestion.ws.TerrainWs#save(Lcom/example/gestion/bean/Terrain;)Lcom/example/gestion/bean/Terrain;
+==
+save com.example.gestion.service.TerrainService#save(Lcom/example/gestion/bean/Terrain;)Lcom/example/gestion/bean/Terrain;

@@ -1,0 +1,103 @@
+
+Äcom.example.gestion.ws.CategoryWs#update(Ljava/lang/Long;Lcom/example/gestion/bean/Category;)Lcom/example/gestion/bean/Category;z
+p/C:/Users/mariam/Documents/5IIR/ACE/C1/taxemanagment-spring/src/main/java/com/example/gestion/ws/CategoryWs.java' '("startingBlock*Á
+startingBlock' '(Q~
+|
+& &(
+%2"
+__annotate**
+
+__unknown_file (
+
+PutMapping*2
+
+__unknown_file (
+
+idjava.lang.LongÄ
+~
+' '((
+%3"
+__annotate*,
+
+__unknown_file (
+PathVariable*2
+
+__unknown_file (
+
+idjava.lang.Longx
+v
+'. '(0
+idjava.lang.Long"__annotation*"
+
+__unknown_file (
+
+%2*"
+
+__unknown_file (
+
+%3ò
+ï
+& &(
+%4"
+__annotate**
+
+__unknown_file (
+
+PutMapping*K
+
+__unknown_file (/
+-
+category!com.example.gestion.bean.Categoryô
+ñ
+'2 '(>
+%5"
+__annotate*+
+
+__unknown_file (
+RequestBody*K
+
+__unknown_file (/
+-
+category!com.example.gestion.bean.Categoryí
+è
+'H '(P-
+category!com.example.gestion.bean.Category"__annotation*"
+
+__unknown_file (
+
+%4*"
+
+__unknown_file (
+
+%5*
+1* 
+1( ((û
+õ
+( ((1
+%0+com.example.gestion.service.CategoryService"__id*V
+
+__unknown_file (:*8#
+!com.example.gestion.ws.CategoryWs"
+categoryService‚ﬂ
+( ((;'
+%1!com.example.gestion.bean.Category"ícom.example.gestion.service.CategoryService#updateCategory(Ljava/lang/Long;Lcom/example/gestion/bean/Category;)Lcom/example/gestion/bean/Category;*O
+
+__unknown_file (3
+1
+%0+com.example.gestion.service.CategoryService*2
+
+__unknown_file (
+
+idjava.lang.Long*K
+
+__unknown_file (/
+-
+category!com.example.gestion.bean.Category2CupdateCategory(Ljava/lang/Long;Lcom/example/gestion/bean/Category;)"5
+( ((<)
+'
+%1!com.example.gestion.bean.Category: 
+' '(1
+idjava.lang.Long:9
+'2 '(P-
+category!com.example.gestion.bean.CategoryB%#
+!com.example.gestion.ws.CategoryWsH

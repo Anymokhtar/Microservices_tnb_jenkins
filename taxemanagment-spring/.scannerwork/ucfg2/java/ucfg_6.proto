@@ -1,0 +1,17 @@
+
+ucom.example.gestion.service.TerrainService#save(Lcom/example/gestion/bean/Terrain;)Lcom/example/gestion/bean/Terrain;ƒ
+y/C:/Users/mariam/Documents/5IIR/ACE/C1/taxemanagment-spring/src/main/java/com/example/gestion/service/TerrainService.java! (%"1*½
+1 (™
+–
+ ((
+%0"com.example.gestion.dao.TerrainDao"__id*Z
+
+__unknown_file (>*<,
+*com.example.gestion.service.TerrainService"
+
+terrainDao"
+ ('
+"":
+& (.
+entitySB.,
+*com.example.gestion.service.TerrainServiceH

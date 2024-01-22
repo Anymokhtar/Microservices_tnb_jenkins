@@ -1,0 +1,3 @@
+com.example.gestion.ws.TauxWs#deleteById(Ljava/lang/Long;)V
+==
+deleteById com.example.gestion.service.TauxService#deleteById(Ljava/lang/Long;)V

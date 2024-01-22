@@ -1,0 +1,52 @@
+
+Öcom.example.vol.controllers.ClientController#updateClient(Lcom/example/vol/models/Proprietaire;)Lcom/example/vol/models/Proprietaire;|
+r/C:/Users/mariam/Documents/5IIR/ACE/C1/auth-spring/src/main/java/com/example/vol/controllers/ClientController.java# #($"startingBlock*€
+startingBlock#$ #(Aì
+ê
+" "(
+%1"
+__annotate**
+
+__unknown_file (
+
+PutMapping*F
+
+__unknown_file (*
+(
+c#com.example.vol.models.Proprietaireî
+ë
+#% #(1
+%2"
+__annotate*+
+
+__unknown_file (
+RequestBody*F
+
+__unknown_file (*
+(
+c#com.example.vol.models.Proprietaireç
+ä
+#? #(@(
+c#com.example.vol.models.Proprietaire"__annotation*"
+
+__unknown_file (
+
+%1*"
+
+__unknown_file (
+
+%2*
+1*–
+1$ $(¨
+©
+$ $(3
+%0-com.example.vol.repositories.ClientRepository"__id*b
+
+__unknown_file (F*D.
+,com.example.vol.controllers.ClientController"
+clientRepository"
+$ $(0
+"":4
+#% #(@(
+c#com.example.vol.models.ProprietaireB0.
+,com.example.vol.controllers.ClientControllerH

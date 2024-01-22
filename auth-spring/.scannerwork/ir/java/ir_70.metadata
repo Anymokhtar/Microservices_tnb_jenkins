@@ -1,0 +1,2 @@
+com.example.vol.controllers.ClientController#addClient(Lcom/example/vol/models/Proprietaire;)LResponseEntity;
+null

@@ -1,0 +1,137 @@
+
+Kcom.example.vol.security.services.UserPrincipal#equals(Ljava/lang/Object;)Z
+u/C:/Users/mariam/Documents/5IIR/ACE/C1/auth-spring/src/main/java/com/example/vol/security/services/UserPrincipal.javaT T("startingBlock*!
+2X
+ X("
+X X(
+""*ï
+3W W(Ø¨
+W W(
+%2java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*O
+
+__unknown_file (31
+/com.example.vol.security.services.UserPrincipal2
+getClass()ìê
+W! W(-
+%3java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*3
+
+__unknown_file (
+
+ojava.lang.Object2
+getClass()µ
+≤
+W W(-
+%4boolean"	__compare*"
+
+__unknown_file (
+!=*3
+
+__unknown_file (
+
+%2java.lang.Class*3
+
+__unknown_file (
+
+%3java.lang.Class*
+2
+1*Ä
+startingBlockT T( à
+Ö
+S S(
+
+%8"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*3
+
+__unknown_file (
+
+ojava.lang.ObjectU
+S
+T T(
+ojava.lang.Object"__annotation*"
+
+__unknown_file (
+
+%8*
+6*º
+4W W(§
+°
+W W(
+%1boolean"	__compare*"
+
+__unknown_file (
+==*3
+
+__unknown_file (
+
+ojava.lang.Object*"
+
+__unknown_file (
+""*
+2
+3*!
+5V
+ V("
+V V(
+""*È
+6U U(
+—
+Œ
+U U(
+%0boolean"	__compare*"
+
+__unknown_file (
+==*O
+
+__unknown_file (31
+/com.example.vol.security.services.UserPrincipal*3
+
+__unknown_file (
+
+ojava.lang.Object*
+4
+5*Æ
+1Y' Y((Ä
+~
+Y Y()7
+user/com.example.vol.security.services.UserPrincipal"__id*3
+
+__unknown_file (
+
+ojava.lang.ObjectÅ
+
+Z Z(
+%5java.lang.Long"__id*W
+
+__unknown_file (;*91
+/com.example.vol.security.services.UserPrincipal"
+idà
+Ö
+Z Z(#
+%6java.lang.Long"__id*]
+
+__unknown_file (A*?
+7
+user/com.example.vol.security.services.UserPrincipal"
+id¯
+ı
+Z	 Z($
+%7boolean"?java.util.Objects#equals(Ljava/lang/Object;Ljava/lang/Object;)Z*1
+
+__unknown_file ("
+java.util.Objects*2
+
+__unknown_file (
+
+%5java.lang.Long*2
+
+__unknown_file (
+
+%6java.lang.Long"
+Z Z(%
+"":!
+T T(
+ojava.lang.ObjectB31
+/com.example.vol.security.services.UserPrincipalHX

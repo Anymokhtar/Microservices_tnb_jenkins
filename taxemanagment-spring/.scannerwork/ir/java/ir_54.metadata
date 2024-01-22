@@ -1,0 +1,3 @@
+com.example.gestion.ws.CategoryWs#findById(Ljava/lang/Long;)Ljava/util/Optional;
+==
+findById com.example.gestion.service.CategoryService#findById(Ljava/lang/Long;)Ljava/util/Optional;

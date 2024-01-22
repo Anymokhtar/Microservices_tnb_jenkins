@@ -1,0 +1,16 @@
+
+[com.example.gestion.service.RedevableService#findById(Ljava/lang/Long;)Ljava/util/Optional;…
+{/C:/Users/mariam/Documents/5IIR/ACE/C1/taxemanagment-spring/src/main/java/com/example/gestion/service/RedevableService.java ('"1*Ã
+1! !(Ÿ
+œ
+! !(*
+%0$com.example.gestion.dao.RedevableDao"__id*^
+
+__unknown_file (B*@.
+,com.example.gestion.service.RedevableService"
+redevableDao"
+! !(*
+"":!
+( (0
+cIdjava.lang.LongB0.
+,com.example.gestion.service.RedevableServiceH

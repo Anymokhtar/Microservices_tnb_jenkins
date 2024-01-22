@@ -1,0 +1,32 @@
+
+Œcom.example.vol.security.services.UserPrincipal#build(Lcom/example/vol/models/Utilisateur;)Lcom/example/vol/security/services/UserPrincipal;
+u/C:/Users/mariam/Documents/5IIR/ACE/C1/auth-spring/src/main/java/com/example/vol/security/services/UserPrincipal.java" "(""1*É
+1% %(tr
+$ $(5
+%0/com.example.vol.security.services.UserPrincipal"/com.example.vol.security.services.UserPrincipalþ
+û
+$	 ((	
+%1"ƒcom.example.vol.security.services.UserPrincipal#<init>(Ljava/lang/Long;Ljava/lang/String;Ljava/lang/String;Ljava/util/Collection;)V*S
+
+__unknown_file (7
+5
+%0/com.example.vol.security.services.UserPrincipal*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+"""C
+$ ((
+7
+5
+%0/com.example.vol.security.services.UserPrincipal:6
+"# "(3*
+user"com.example.vol.models.UtilisateurB3"1
+/com.example.vol.security.services.UserPrincipalH

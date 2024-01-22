@@ -1,0 +1,21 @@
+
+:com.example.gestion.ws.TerrainWs#findAll()Ljava/util/List;y
+o/C:/Users/mariam/Documents/5IIR/ACE/C1/taxemanagment-spring/src/main/java/com/example/gestion/ws/TerrainWs.java ( "1*–
+1 (›
+˜
+ (0
+%0*com.example.gestion.service.TerrainService"__id*T
+
+__unknown_file (8*6"
+ com.example.gestion.ws.TerrainWs"
+terrainServiceÄÁ
+ ('
+%1java.util.List"Dcom.example.gestion.service.TerrainService#findAll()Ljava/util/List;*N
+
+__unknown_file (2
+0
+%0*com.example.gestion.service.TerrainService2	findAll()""
+ ((
+
+%1java.util.ListB$"
+ com.example.gestion.ws.TerrainWsH

@@ -1,0 +1,14 @@
+
+Lcom.example.vol.controllers.ClientController#getAllClients()Ljava/util/List;|
+r/C:/Users/mariam/Documents/5IIR/ACE/C1/auth-spring/src/main/java/com/example/vol/controllers/ClientController.java (+"1*Ð
+1 (¬
+©
+ (3
+%0-com.example.vol.repositories.ClientRepository"__id*b
+
+__unknown_file (F*D.
+,com.example.vol.controllers.ClientController"
+clientRepository"
+ (*
+""B0.
+,com.example.vol.controllers.ClientControllerH

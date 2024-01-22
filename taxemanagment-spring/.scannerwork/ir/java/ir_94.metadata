@@ -1,0 +1,3 @@
+com.example.gestion.ws.TauxWs#update(Ljava/lang/Long;Lcom/example/gestion/bean/Taux;)Lcom/example/gestion/bean/Taux;
+==
+updateTaux com.example.gestion.service.TauxService#updateTaux(Ljava/lang/Long;Lcom/example/gestion/bean/Taux;)Lcom/example/gestion/bean/Taux;

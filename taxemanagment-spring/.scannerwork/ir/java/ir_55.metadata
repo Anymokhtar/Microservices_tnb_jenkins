@@ -1,0 +1,3 @@
+com.example.gestion.ws.CategoryWs#deleteById(Ljava/lang/Long;)V
+==
+deleteById com.example.gestion.service.CategoryService#deleteById(Ljava/lang/Long;)V

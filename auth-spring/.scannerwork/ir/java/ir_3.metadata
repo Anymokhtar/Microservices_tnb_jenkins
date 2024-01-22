@@ -1,0 +1,4 @@
+com.example.vol.security.WebSecurityConfig#authenticationProvider()LDaoAuthenticationProvider;
+null
+==
+passwordEncoder com.example.vol.security.WebSecurityConfig#passwordEncoder()LPasswordEncoder;

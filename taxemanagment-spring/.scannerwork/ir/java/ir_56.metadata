@@ -1,0 +1,3 @@
+com.example.gestion.ws.CategoryWs#update(Ljava/lang/Long;Lcom/example/gestion/bean/Category;)Lcom/example/gestion/bean/Category;
+==
+updateCategory com.example.gestion.service.CategoryService#updateCategory(Ljava/lang/Long;Lcom/example/gestion/bean/Category;)Lcom/example/gestion/bean/Category;

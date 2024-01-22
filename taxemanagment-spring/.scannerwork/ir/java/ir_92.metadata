@@ -1,0 +1,3 @@
+com.example.gestion.ws.TauxWs#findById(Ljava/lang/Long;)Ljava/util/Optional;
+==
+findById com.example.gestion.service.TauxService#findById(Ljava/lang/Long;)Ljava/util/Optional;

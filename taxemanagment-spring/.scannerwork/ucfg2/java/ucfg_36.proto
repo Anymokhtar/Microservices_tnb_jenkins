@@ -1,0 +1,42 @@
+
+Žcom.example.gestion.service.TaxeTnbService#updateTaxeTnb(Ljava/lang/Long;Lcom/example/gestion/bean/TaxeTnb;)Lcom/example/gestion/bean/TaxeTnb;ƒ
+y/C:/Users/mariam/Documents/5IIR/ACE/C1/taxemanagment-spring/src/main/java/com/example/gestion/service/TaxeTnbService.java ( "1*¨
+1 (ž›
+ ("
+%0java.util.Optional"Ycom.example.gestion.service.TaxeTnbService#findById(Ljava/lang/Long;)Ljava/util/Optional;*J
+
+__unknown_file (.,
+*com.example.gestion.service.TaxeTnbService*2
+
+__unknown_file (
+
+idjava.lang.Long2findById(Ljava/lang/Long;) 
+ ((&
+%1 com.example.gestion.bean.TaxeTnb"*java.util.Optional#get()Ljava/lang/Object;*6
+
+__unknown_file (
+
+%0java.util.Optional2get()
+
+ ()'
+app com.example.gestion.bean.TaxeTnb"__id*D
+
+__unknown_file ((
+&
+%1 com.example.gestion.bean.TaxeTnb™
+–
+" "((
+%2"com.example.gestion.dao.TaxeTnbDao"__id*Z
+
+__unknown_file (>*<,
+*com.example.gestion.service.TaxeTnbService"
+
+taxeTnbDao"5
+# #()
+'
+app com.example.gestion.bean.TaxeTnb: 
+! ()
+idjava.lang.Long:7
+* (9+
+taxeTnb com.example.gestion.bean.TaxeTnbB.,
+*com.example.gestion.service.TaxeTnbServiceH

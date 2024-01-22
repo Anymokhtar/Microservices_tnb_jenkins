@@ -1,0 +1,63 @@
+
+Lcom.example.gestion.ws.TauxWs#findById(Ljava/lang/Long;)Ljava/util/Optional;v
+l/C:/Users/mariam/Documents/5IIR/ACE/C1/taxemanagment-spring/src/main/java/com/example/gestion/ws/TauxWs.java (""startingBlock*õ
+startingBlock" (9~
+|
+ (!
+%2"
+__annotate**
+
+__unknown_file (
+
+GetMapping*2
+
+__unknown_file (
+
+idjava.lang.LongÄ
+~
+# (0
+%3"
+__annotate*,
+
+__unknown_file (
+PathVariable*2
+
+__unknown_file (
+
+idjava.lang.Longx
+v
+6 (8
+idjava.lang.Long"__annotation*"
+
+__unknown_file (
+
+%2*"
+
+__unknown_file (
+
+%3*
+1*È
+1   (í
+è
+   (-
+%0'com.example.gestion.service.TauxService"__id*N
+
+__unknown_file (2*0
+com.example.gestion.ws.TauxWs"
+tauxServiceúô
+   ('
+%1java.util.Optional"Vcom.example.gestion.service.TauxService#findById(Ljava/lang/Long;)Ljava/util/Optional;*K
+
+__unknown_file (/
+-
+%0'com.example.gestion.service.TauxService*2
+
+__unknown_file (
+
+idjava.lang.Long2findById(Ljava/lang/Long;)"&
+   ((
+
+%1java.util.Optional: 
+# (8
+idjava.lang.LongB!
+com.example.gestion.ws.TauxWsH

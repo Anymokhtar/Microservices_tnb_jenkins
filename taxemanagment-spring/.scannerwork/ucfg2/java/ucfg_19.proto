@@ -1,0 +1,61 @@
+
+Jcom.example.gestion.ws.TaxeTnbWs#save(Lcom/example/gestion/bean/TaxeTnb;)Iy
+o/C:/Users/mariam/Documents/5IIR/ACE/C1/taxemanagment-spring/src/main/java/com/example/gestion/ws/TaxeTnbWs.java ("startingBlock*Ó
+startingBlock (+‘
+Ž
+ (
+%2"
+__annotate*+
+
+__unknown_file (
+PostMapping*C
+
+__unknown_file ('
+%
+a com.example.gestion.bean.TaxeTnb‘
+Ž
+ ( 
+%3"
+__annotate*+
+
+__unknown_file (
+RequestBody*C
+
+__unknown_file ('
+%
+a com.example.gestion.bean.TaxeTnbŠ
+‡
+) (*%
+a com.example.gestion.bean.TaxeTnb"__annotation*"
+
+__unknown_file (
+
+%2*"
+
+__unknown_file (
+
+%3*
+1*ï
+1 (›
+˜
+ (0
+%0*com.example.gestion.service.TaxeTnbService"__id*T
+
+__unknown_file (8*6"
+ com.example.gestion.ws.TaxeTnbWs"
+taxeTnbService­ª
+ (%	
+%1int"Tcom.example.gestion.service.TaxeTnbService#save(Lcom/example/gestion/bean/TaxeTnb;)I*N
+
+__unknown_file (2
+0
+%0*com.example.gestion.service.TaxeTnbService*C
+
+__unknown_file ('
+%
+a com.example.gestion.bean.TaxeTnb2(save(Lcom/example/gestion/bean/TaxeTnb;)"
+ (&
+"":1
+ (*%
+a com.example.gestion.bean.TaxeTnbB$"
+ com.example.gestion.ws.TaxeTnbWsHX

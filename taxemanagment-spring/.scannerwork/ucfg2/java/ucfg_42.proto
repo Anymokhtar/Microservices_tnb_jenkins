@@ -1,0 +1,62 @@
+
+kcom.example.gestion.ws.TerrainWs#save(Lcom/example/gestion/bean/Terrain;)Lcom/example/gestion/bean/Terrain;y
+o/C:/Users/mariam/Documents/5IIR/ACE/C1/taxemanagment-spring/src/main/java/com/example/gestion/ws/TerrainWs.java! (%"startingBlock*ÿ
+startingBlock% (<v
+t
+ (
+%2"
+__annotate*+
+
+__unknown_file (
+PostMapping*)
+
+__unknown_file (
+
+entitySv
+t
+& (2
+%3"
+__annotate*+
+
+__unknown_file (
+RequestBody*)
+
+__unknown_file (
+
+entitySo
+m
+5 (;
+entityS"__annotation*"
+
+__unknown_file (
+
+%2*"
+
+__unknown_file (
+
+%3*
+1*÷
+1 (›
+˜
+ (0
+%0*com.example.gestion.service.TerrainService"__id*T
+
+__unknown_file (8*6"
+ com.example.gestion.ws.TerrainWs"
+terrainService²¯
+ (*
+%1S"ucom.example.gestion.service.TerrainService#save(Lcom/example/gestion/bean/Terrain;)Lcom/example/gestion/bean/Terrain;*N
+
+__unknown_file (2
+0
+%0*com.example.gestion.service.TerrainService*)
+
+__unknown_file (
+
+entityS2(save(Lcom/example/gestion/bean/Terrain;)"
+ (+	
+
+%1S:
+& (;
+entitySB$"
+ com.example.gestion.ws.TerrainWsH

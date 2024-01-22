@@ -1,0 +1,21 @@
+
+;com.example.gestion.ws.CategoryWs#findAll()Ljava/util/List;z
+p/C:/Users/mariam/Documents/5IIR/ACE/C1/taxemanagment-spring/src/main/java/com/example/gestion/ws/CategoryWs.java (!"1*›
+1 (ž
+›
+ (1
+%0+com.example.gestion.service.CategoryService"__id*V
+
+__unknown_file (:*8#
+!com.example.gestion.ws.CategoryWs"
+categoryServiceÆÃ
+ ((
+%1java.util.List"Ecom.example.gestion.service.CategoryService#findAll()Ljava/util/List;*O
+
+__unknown_file (3
+1
+%0+com.example.gestion.service.CategoryService2	findAll()""
+ ()
+
+%1java.util.ListB%#
+!com.example.gestion.ws.CategoryWsH

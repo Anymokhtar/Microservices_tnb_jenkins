@@ -1,0 +1,63 @@
+
+Qcom.example.gestion.ws.RedevableWs#findById(Ljava/lang/Long;)Ljava/util/Optional;{
+q/C:/Users/mariam/Documents/5IIR/ACE/C1/taxemanagment-spring/src/main/java/com/example/gestion/ws/RedevableWs.java ('"startingBlock*›
+startingBlock' (>~
+|
+ (!
+%2"
+__annotate**
+
+__unknown_file (
+
+GetMapping*2
+
+__unknown_file (
+
+idjava.lang.Long€
+~
+( (5
+%3"
+__annotate*,
+
+__unknown_file (
+PathVariable*2
+
+__unknown_file (
+
+idjava.lang.Longx
+v
+; (=
+idjava.lang.Long"__annotation*"
+
+__unknown_file (
+
+%2*"
+
+__unknown_file (
+
+%3*
+1*‚
+1 (¡
+ž
+ (2
+%0,com.example.gestion.service.RedevableService"__id*X
+
+__unknown_file (<*:$
+"com.example.gestion.ws.RedevableWs"
+redevableService¦£
+ (,
+%1java.util.Optional"[com.example.gestion.service.RedevableService#findById(Ljava/lang/Long;)Ljava/util/Optional;*P
+
+__unknown_file (4
+2
+%0,com.example.gestion.service.RedevableService*2
+
+__unknown_file (
+
+idjava.lang.Long2findById(Ljava/lang/Long;)"&
+ (-
+
+%1java.util.Optional: 
+( (=
+idjava.lang.LongB&$
+"com.example.gestion.ws.RedevableWsH

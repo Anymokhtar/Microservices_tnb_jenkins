@@ -1,0 +1,35 @@
+
+Xcom.example.gestion.service.RedevableService#save(Lcom/example/gestion/bean/Redevable;)I…
+{/C:/Users/mariam/Documents/5IIR/ACE/C1/taxemanagment-spring/src/main/java/com/example/gestion/service/RedevableService.java ("3*Ã
+2 (Ÿ
+œ
+ (*
+%1$com.example.gestion.dao.RedevableDao"__id*^
+
+__unknown_file (B*@.
+,com.example.gestion.service.RedevableService"
+redevableDao"
+ (
+""*Î
+3 (¶
+³
+ (
+%0boolean"	__compare*"
+
+__unknown_file (
+!=*E
+
+__unknown_file ()
+'
+c"com.example.gestion.bean.Redevable*"
+
+__unknown_file (
+""*
+2
+1*!
+1 ("
+ (
+"":3
+ ('
+c"com.example.gestion.bean.RedevableB0.
+,com.example.gestion.service.RedevableServiceHX

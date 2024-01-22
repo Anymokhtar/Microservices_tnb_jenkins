@@ -1,0 +1,15 @@
+
+Qcom.example.vol.models.AuthResponse#getUser()Lcom/example/vol/models/Utilisateur;s
+i/C:/Users/mariam/Documents/5IIR/ACE/C1/auth-spring/src/main/java/com/example/vol/models/AuthResponse.java ("1*Ô
+1 (Œ
+‰
+ ((
+%0"com.example.vol.models.Utilisateur"__id*M
+
+__unknown_file (1*/%
+#com.example.vol.models.AuthResponse"
+user"6
+ (*
+(
+%0"com.example.vol.models.UtilisateurB'%
+#com.example.vol.models.AuthResponseH

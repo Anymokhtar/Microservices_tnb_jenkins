@@ -1,0 +1,4 @@
+com.example.gestion.service.TauxService#updateTaux(Ljava/lang/Long;Lcom/example/gestion/bean/Taux;)Lcom/example/gestion/bean/Taux;
+java.util.Optional#get()Ljava/lang/Object;
+==
+findById com.example.gestion.service.TauxService#findById(Ljava/lang/Long;)Ljava/util/Optional;

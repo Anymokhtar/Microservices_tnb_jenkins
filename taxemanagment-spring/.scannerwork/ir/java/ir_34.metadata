@@ -1,0 +1,3 @@
+com.example.gestion.ws.TaxeTnbWs#findAll()Ljava/util/List;
+==
+findAll com.example.gestion.service.TaxeTnbService#findAll()Ljava/util/List;

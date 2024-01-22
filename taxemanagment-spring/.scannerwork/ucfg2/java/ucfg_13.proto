@@ -1,0 +1,61 @@
+
+Ncom.example.gestion.ws.RedevableWs#save(Lcom/example/gestion/bean/Redevable;)I{
+q/C:/Users/mariam/Documents/5IIR/ACE/C1/taxemanagment-spring/src/main/java/com/example/gestion/ws/RedevableWs.java ("startingBlock*Ÿ
+startingBlock (-ì
+ê
+ (
+%2"
+__annotate*+
+
+__unknown_file (
+PostMapping*E
+
+__unknown_file ()
+'
+a"com.example.gestion.bean.Redevableì
+ê
+ ( 
+%3"
+__annotate*+
+
+__unknown_file (
+RequestBody*E
+
+__unknown_file ()
+'
+a"com.example.gestion.bean.Redevableå
+â
++ (,'
+a"com.example.gestion.bean.Redevable"__annotation*"
+
+__unknown_file (
+
+%2*"
+
+__unknown_file (
+
+%3*
+1*ˇ
+1 (°
+û
+ (2
+%0,com.example.gestion.service.RedevableService"__id*X
+
+__unknown_file (<*:$
+"com.example.gestion.ws.RedevableWs"
+redevableService∑¥
+ ('	
+%1int"Xcom.example.gestion.service.RedevableService#save(Lcom/example/gestion/bean/Redevable;)I*P
+
+__unknown_file (4
+2
+%0,com.example.gestion.service.RedevableService*E
+
+__unknown_file ()
+'
+a"com.example.gestion.bean.Redevable2*save(Lcom/example/gestion/bean/Redevable;)"
+ ((
+"":3
+ (,'
+a"com.example.gestion.bean.RedevableB&$
+"com.example.gestion.ws.RedevableWsHX

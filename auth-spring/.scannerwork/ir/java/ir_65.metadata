@@ -1,0 +1,11 @@
+com.example.vol.controllers.AuthController#authenticateUser(Lcom/example/vol/models/LoginRequest;)LResponseEntity;
+null
+com.example.vol.models.AuthResponse#instance-init#
+com.example.vol.models.AuthResponse#<init>(Ljava/lang/String;Lcom/example/vol/models/Utilisateur;)V
+java.util.Optional#orElseThrow(Ljava/util/function/Supplier;)Ljava/lang/Object;
+==
+getAccessToken com.example.vol.models.Token#getAccessToken()Ljava/lang/String;
+findByUsername com.example.vol.repositories.AppUserRepository#findByUsername(Ljava/lang/String;)Ljava/util/Optional;
+generateToken com.example.vol.security.jwt.JwtUtils#generateToken(Ljava/lang/String;)Lcom/example/vol/models/Token;
+getPassword com.example.vol.models.LoginRequest#getPassword()Ljava/lang/String;
+getUsername com.example.vol.models.LoginRequest#getUsername()Ljava/lang/String;

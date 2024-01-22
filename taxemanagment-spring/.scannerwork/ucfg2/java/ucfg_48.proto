@@ -1,0 +1,21 @@
+
+7com.example.gestion.ws.TauxWs#findAll()Ljava/util/List;v
+l/C:/Users/mariam/Documents/5IIR/ACE/C1/taxemanagment-spring/src/main/java/com/example/gestion/ws/TauxWs.java ("1*á
+1 (í
+è
+ (-
+%0'com.example.gestion.service.TauxService"__id*N
+
+__unknown_file (2*0
+com.example.gestion.ws.TauxWs"
+tauxServiceæª
+ ($
+%1java.util.List"Acom.example.gestion.service.TauxService#findAll()Ljava/util/List;*K
+
+__unknown_file (/
+-
+%0'com.example.gestion.service.TauxService2	findAll()""
+ (%
+
+%1java.util.ListB!
+com.example.gestion.ws.TauxWsH

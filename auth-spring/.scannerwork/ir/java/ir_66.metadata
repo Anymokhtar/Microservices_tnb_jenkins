@@ -1,0 +1,7 @@
+com.example.vol.controllers.AuthController#register(Lcom/example/vol/models/Utilisateur;)LResponseEntity;
+java.util.HashMap#<init>()V
+java.util.HashMap#instance-init#
+==
+put java.util.Map#put(Ljava/lang/Object;Ljava/lang/Object;)Ljava/lang/Object;
+println java.io.PrintStream#println([C)V
+findByUsername com.example.vol.repositories.AppUserRepository#findByUsername(Ljava/lang/String;)Ljava/util/Optional;

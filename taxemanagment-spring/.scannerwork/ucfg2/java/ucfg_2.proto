@@ -1,0 +1,16 @@
+
+Zcom.example.gestion.service.CategoryService#findById(Ljava/lang/Long;)Ljava/util/Optional;„
+z/C:/Users/mariam/Documents/5IIR/ACE/C1/taxemanagment-spring/src/main/java/com/example/gestion/service/CategoryService.java   (&"1*À
+1" "(œ
+™
+" "()
+%0#com.example.gestion.dao.CategoryDao"__id*\
+
+__unknown_file (@*>-
++com.example.gestion.service.CategoryService"
+categoryDao"
+" "()
+"":!
+ '  (/
+cIdjava.lang.LongB/-
++com.example.gestion.service.CategoryServiceH

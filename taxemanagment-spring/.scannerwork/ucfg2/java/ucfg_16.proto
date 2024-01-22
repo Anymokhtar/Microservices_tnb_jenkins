@@ -1,0 +1,103 @@
+
+ƒcom.example.gestion.ws.RedevableWs#update(Ljava/lang/Long;Lcom/example/gestion/bean/Redevable;)Lcom/example/gestion/bean/Redevable;{
+q/C:/Users/mariam/Documents/5IIR/ACE/C1/taxemanagment-spring/src/main/java/com/example/gestion/ws/RedevableWs.java' '("startingBlock*í
+startingBlock' '(T~
+|
+& &(
+%2"
+__annotate**
+
+__unknown_file (
+
+PutMapping*2
+
+__unknown_file (
+
+idjava.lang.Long€
+~
+' '()
+%3"
+__annotate*,
+
+__unknown_file (
+PathVariable*2
+
+__unknown_file (
+
+idjava.lang.Longx
+v
+'/ '(1
+idjava.lang.Long"__annotation*"
+
+__unknown_file (
+
+%2*"
+
+__unknown_file (
+
+%3š
+—
+& &(
+%4"
+__annotate**
+
+__unknown_file (
+
+PutMapping*M
+
+__unknown_file (1
+/
+	redevable"com.example.gestion.bean.Redevable›
+˜
+'3 '(?
+%5"
+__annotate*+
+
+__unknown_file (
+RequestBody*M
+
+__unknown_file (1
+/
+	redevable"com.example.gestion.bean.Redevable”
+‘
+'J '(S/
+	redevable"com.example.gestion.bean.Redevable"__annotation*"
+
+__unknown_file (
+
+%4*"
+
+__unknown_file (
+
+%5*
+1*Ø
+1( ((¡
+ž
+( ((2
+%0,com.example.gestion.service.RedevableService"__id*X
+
+__unknown_file (<*:$
+"com.example.gestion.ws.RedevableWs"
+redevableServiceìé
+( ((>(
+%1"com.example.gestion.bean.Redevable"–com.example.gestion.service.RedevableService#updateRedevable(Ljava/lang/Long;Lcom/example/gestion/bean/Redevable;)Lcom/example/gestion/bean/Redevable;*P
+
+__unknown_file (4
+2
+%0,com.example.gestion.service.RedevableService*2
+
+__unknown_file (
+
+idjava.lang.Long*M
+
+__unknown_file (1
+/
+	redevable"com.example.gestion.bean.Redevable2EupdateRedevable(Ljava/lang/Long;Lcom/example/gestion/bean/Redevable;)"6
+( ((?*
+(
+%1"com.example.gestion.bean.Redevable: 
+' '(2
+idjava.lang.Long:;
+'3 '(S/
+	redevable"com.example.gestion.bean.RedevableB&$
+"com.example.gestion.ws.RedevableWsH

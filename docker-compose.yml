@@ -1,0 +1,95 @@
+version: '3'
+
+services:
+
+
+
+  # MySQL auth
+  mysql-auth:
+    image: mysql:latest
+    environment:
+      MYSQL_ALLOW_EMPTY_PASSWORD: "yes"
+      MYSQL_DATABASE: auth
+
+    ports:
+      - "3306:3306"
+    networks:
+      - n3
+
+  # MySQL taxemanagment
+  mysql-taxemanagment:
+    image: mysql:latest
+    environment:
+      MYSQL_ALLOW_EMPTY_PASSWORD: "yes"
+      MYSQL_DATABASE: taxemanagment
+
+    ports:
+      - "3307:3306"
+    networks:
+      - n3
+
+  # auth Service
+  auth-service:
+    build:
+      context: ./auth-spring
+    ports:
+      - "6662:6662"
+    depends_on:
+      - mysql-auth
+    environment:
+      SPRING_DATASOURCE_URL: jdbc:mysql://mysql-auth:3306/db_auth?createDatabaseIfNotExist=true&serverTimezone=UTC
+      SPRING_DATASOURCE_USERNAME: root
+      SPRING_DATASOURCE_PASSWORD: root
+    healthcheck:
+      test: "/usr/bin/mysql --user=root --password=root --execute \"SHOW DATABASES;\""
+      interval: 5s
+      timeout: 2s
+      retries: 100
+    networks:
+      - n3
+
+  # taxemanagment Service
+  event-service:
+    build:
+      context: ./taxemanagment-spring
+    ports:
+      - "6661:6661"
+    depends_on:
+      - mysql-taxemanagment
+    environment:
+      SPRING_DATASOURCE_URL: jdbc:mysql://mysql-taxemanagment:3306/db_taxe?createDatabaseIfNotExist=true&serverTimezone=UTC
+      SPRING_DATASOURCE_USERNAME: root
+      SPRING_DATASOURCE_PASSWORD: root
+    healthcheck:
+      test: "/usr/bin/mysql --user=root --password=root --execute \"SHOW DATABASES;\""
+      interval: 5s
+      timeout: 2s
+      retries: 100
+    networks:
+      - n3
+
+  phpmyadmin-auth:
+    image: phpmyadmin/phpmyadmin
+    environment:
+      PMA_HOST: mysql-auth
+      PMA_PORT: 3306
+      MYSQL_ROOT_PASSWORD: root
+    ports:
+      - "8082:80"
+    networks:
+      - n3
+
+  phpmyadmin-taxemanagment:
+    image: phpmyadmin/phpmyadmin
+    environment:
+      PMA_HOST: mysql-taxemanagment
+      PMA_PORT: 3306
+      MYSQL_ROOT_PASSWORD: root
+    ports:
+      - "8083:80"
+    networks:
+      - n3
+
+networks:
+  n3:
+    external: true

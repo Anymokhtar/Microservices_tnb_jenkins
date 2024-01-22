@@ -1,0 +1,1 @@
+com.example.vol.security.WebSecurityConfig#<init>(Lcom/example/vol/security/services/UserDetailsServiceImpl;Lcom/example/vol/security/jwt/AuthEntryPointJwt;LCorsConfiguration;)V

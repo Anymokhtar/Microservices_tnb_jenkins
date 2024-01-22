@@ -1,0 +1,3 @@
+com.example.gestion.ws.RedevableWs#findAll()Ljava/util/List;
+==
+findAll com.example.gestion.service.RedevableService#findAll()Ljava/util/List;

@@ -1,0 +1,17 @@
+
+Ycom.example.gestion.service.TerrainService#findById(Ljava/lang/Long;)Ljava/util/Optional;ƒ
+y/C:/Users/mariam/Documents/5IIR/ACE/C1/taxemanagment-spring/src/main/java/com/example/gestion/service/TerrainService.java   (%"1*½
+1" "(™
+–
+" "((
+%0"com.example.gestion.dao.TerrainDao"__id*Z
+
+__unknown_file (>*<,
+*com.example.gestion.service.TerrainService"
+
+terrainDao"
+" "((
+"":!
+ &  (.
+cIdjava.lang.LongB.,
+*com.example.gestion.service.TerrainServiceH

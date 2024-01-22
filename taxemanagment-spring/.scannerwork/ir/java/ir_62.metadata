@@ -1,0 +1,4 @@
+com.example.gestion.service.TaxeTnbService#updateTaxeTnb(Ljava/lang/Long;Lcom/example/gestion/bean/TaxeTnb;)Lcom/example/gestion/bean/TaxeTnb;
+java.util.Optional#get()Ljava/lang/Object;
+==
+findById com.example.gestion.service.TaxeTnbService#findById(Ljava/lang/Long;)Ljava/util/Optional;

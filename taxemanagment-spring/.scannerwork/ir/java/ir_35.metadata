@@ -1,0 +1,3 @@
+com.example.gestion.ws.TaxeTnbWs#save(Lcom/example/gestion/bean/TaxeTnb;)I
+==
+save com.example.gestion.service.TaxeTnbService#save(Lcom/example/gestion/bean/TaxeTnb;)I

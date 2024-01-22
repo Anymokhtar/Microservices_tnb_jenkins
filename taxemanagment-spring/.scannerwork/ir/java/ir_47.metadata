@@ -1,0 +1,3 @@
+com.example.gestion.service.RedevableService#findByCin(Ljava/lang/String;)Lcom/example/gestion/bean/Redevable;
+==
+findByCin com.example.gestion.dao.RedevableDao#findByCin(Ljava/lang/String;)Lcom/example/gestion/bean/Redevable;

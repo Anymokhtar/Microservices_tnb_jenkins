@@ -1,0 +1,3 @@
+com.example.gestion.ws.TauxWs#save(Lcom/example/gestion/bean/Taux;)Lcom/example/gestion/bean/Taux;
+==
+save com.example.gestion.service.TauxService#save(Lcom/example/gestion/bean/Taux;)Lcom/example/gestion/bean/Taux;

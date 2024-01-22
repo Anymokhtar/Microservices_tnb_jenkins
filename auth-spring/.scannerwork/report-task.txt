@@ -1,0 +1,7 @@
+organization=sonar-orgg1
+projectKey=sonar-orgg1_auth-spring
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.52056
+dashboardUrl=https://sonarcloud.io/dashboard?id=sonar-orgg1_auth-spring
+ceTaskId=AY0pEMWDAmr69HnV_a8U
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AY0pEMWDAmr69HnV_a8U

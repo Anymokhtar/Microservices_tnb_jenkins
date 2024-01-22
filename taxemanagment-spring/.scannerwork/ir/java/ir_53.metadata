@@ -1,0 +1,3 @@
+com.example.gestion.ws.CategoryWs#save(Lcom/example/gestion/bean/Category;)I
+==
+save com.example.gestion.service.CategoryService#save(Lcom/example/gestion/bean/Category;)I

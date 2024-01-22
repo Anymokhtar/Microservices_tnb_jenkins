@@ -1,0 +1,3 @@
+com.example.gestion.ws.TaxeTnbWs#update(Ljava/lang/Long;Lcom/example/gestion/bean/TaxeTnb;)Lcom/example/gestion/bean/TaxeTnb;
+==
+updateTaxeTnb com.example.gestion.service.TaxeTnbService#updateTaxeTnb(Ljava/lang/Long;Lcom/example/gestion/bean/TaxeTnb;)Lcom/example/gestion/bean/TaxeTnb;

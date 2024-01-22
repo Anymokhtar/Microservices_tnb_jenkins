@@ -1,0 +1,5 @@
+com.example.vol.config.WebMvcConfig#corsConfiguration()LCorsConfiguration;
+null
+java.util.List#of(Ljava/lang/Object;)Ljava/util/List;
+java.util.List#of(Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)Ljava/util/List;
+java.util.List#of(Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)Ljava/util/List;

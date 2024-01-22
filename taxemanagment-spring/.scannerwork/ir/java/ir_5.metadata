@@ -1,0 +1,4 @@
+com.example.gestion.service.CategoryService#updateCategory(Ljava/lang/Long;Lcom/example/gestion/bean/Category;)Lcom/example/gestion/bean/Category;
+java.util.Optional#get()Ljava/lang/Object;
+==
+findById com.example.gestion.service.CategoryService#findById(Ljava/lang/Long;)Ljava/util/Optional;

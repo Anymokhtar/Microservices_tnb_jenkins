@@ -1,0 +1,61 @@
+
+Lcom.example.gestion.ws.CategoryWs#save(Lcom/example/gestion/bean/Category;)Iz
+p/C:/Users/mariam/Documents/5IIR/ACE/C1/taxemanagment-spring/src/main/java/com/example/gestion/ws/CategoryWs.java ("startingBlock*÷
+startingBlock (,í
+è
+ (
+%2"
+__annotate*+
+
+__unknown_file (
+PostMapping*D
+
+__unknown_file ((
+&
+a!com.example.gestion.bean.Categoryí
+è
+ ( 
+%3"
+__annotate*+
+
+__unknown_file (
+RequestBody*D
+
+__unknown_file ((
+&
+a!com.example.gestion.bean.Categoryã
+à
+* (+&
+a!com.example.gestion.bean.Category"__annotation*"
+
+__unknown_file (
+
+%2*"
+
+__unknown_file (
+
+%3*
+1*˜
+1 (û
+õ
+ (1
+%0+com.example.gestion.service.CategoryService"__id*V
+
+__unknown_file (:*8#
+!com.example.gestion.ws.CategoryWs"
+categoryService≤Ø
+ (&	
+%1int"Vcom.example.gestion.service.CategoryService#save(Lcom/example/gestion/bean/Category;)I*O
+
+__unknown_file (3
+1
+%0+com.example.gestion.service.CategoryService*D
+
+__unknown_file ((
+&
+a!com.example.gestion.bean.Category2)save(Lcom/example/gestion/bean/Category;)"
+ ('
+"":2
+ (+&
+a!com.example.gestion.bean.CategoryB%#
+!com.example.gestion.ws.CategoryWsHX
